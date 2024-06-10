@@ -6,3 +6,4 @@
     http://x.x.x.x:9090 ---- prometheus
     http://x.x.x.x:3000 ---- grafana
     garafana user & pass : admin
+# 6. add dashboards from https://grafana.com/grafana/dashboards/ to grafana
